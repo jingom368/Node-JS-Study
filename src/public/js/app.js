@@ -1,3 +1,5 @@
+// 23.11.28
+
 // new WebSocket(URL) : WebSocket 객체를 생성하고, 주어진 URL로 WebSocket 연결을 시도합니다.
 // `ws://${window.location.host}` : 문자열 템플릿을 사용하여 WebSocket 서버의 URL을 생성합니다. 
 //     ws://는 WebSocket 프로토콜을 나타내며, ${window.location.host}는 현재 웹 페이지의 호스트명과 포트를 나타냅니다.
